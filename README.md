@@ -29,7 +29,7 @@ A **Laravel 13** REST API that fetches data from [JSONPlaceholder](https://jsonp
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/iamreverie/jsonplaceholder-api.git
 cd jsonplaceholder-api
 ```
 
